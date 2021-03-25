@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import classNames from '../utils/class-names';
-import { minutesToDuration, secondsToDuration } from '../utils/duration';
 import useInterval from '../utils/useInterval';
 import ChangeBreakTimer from './ChangeBreakTimer';
 import ChangeFocusTimer from './ChangeFocusTimer';

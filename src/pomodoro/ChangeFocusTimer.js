@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { minutesToDuration, secondsToDuration } from '../utils/duration';
+import React from 'react';
+import { minutesToDuration } from '../utils/duration';
 
 const ChangeFocusTimer = (props) => {
   //   const [inputFocusTime, setInputFocusTime] = useState(25);
